@@ -1,3 +1,33 @@
+V2 audio synth as pure C++, GNU g++ compatible library - forked from V2 (ViruzII) by Tammo Hinrichs ("kb","kebby")  
+  
+The V2 will take off soon.  
+  
+status - 0%  
+  
+Steps:  
+compile with NASM/MASM and MSVC: pending  
+compile with NASM/MASM and MinGW: pending  
+remove/replace Windows specific dependencies: pending  
+asm to cpp: pending  
+  
+  
+Notes:  
+V2 is using some DirectAudio filters which must be replaced  
+Speech voice is called "RONAN, DER FREUNDLICHE SPRECHROBOTER"  
+ - in some files it says: "ronan heiﬂt in wirklichkeit lisa. ich war nur zu faul zum renamen."  
+  
+  
+v2m file format:  
+headerless?  
+MIDI like  
+  
+  
+License:  
+"Public Domain"  
+in "genthree" the viruz2 files are "distributed under a BSD license"  
+  
+  
+original readme:
 # Hi!
 
 This is it. Pretty much a history of Farbrausch tools 2001-2011. We've been
