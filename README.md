@@ -24,7 +24,9 @@ MIDI like
   
 License:  
 "Public Domain"  
-in "genthree" the viruz2 files are "distributed under a BSD license"  
+(in "genthree" the viruz2 files are "distributed under a BSD license")  
+This license is a bit unspecific, but I expect it is safe to change, compile and distribute for non commercial purposes. 
+  
   
   
 original readme:
